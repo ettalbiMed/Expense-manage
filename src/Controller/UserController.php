@@ -21,5 +21,6 @@ class UserController extends AbstractController {
         die();
         return $this->render('User/profil.html.twig');
     }
+	//test
 
 }
